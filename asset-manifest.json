@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/test-react-single-page/static/css/main.e7f55487.css",
-    "main.js": "/test-react-single-page/static/js/main.abbd5975.js",
-    "static/media/1.webp": "/test-react-single-page/static/media/1.f9dc7c1a2155af61c507.webp",
-    "static/media/3.webp": "/test-react-single-page/static/media/3.cbae074e7117d28c83f8.webp",
-    "static/media/4.webp": "/test-react-single-page/static/media/4.31253d4a48e8f6d64bef.webp",
-    "static/media/5.webp": "/test-react-single-page/static/media/5.f24b4ebb44138b633eee.webp",
-    "static/media/2.webp": "/test-react-single-page/static/media/2.d388b43b6d4a800a6edd.webp",
-    "static/media/footer.webp": "/test-react-single-page/static/media/footer.fe0727987d02c927e690.webp",
-    "static/media/welcome.wav": "/test-react-single-page/static/media/welcome.3d1b74217c797f666099.wav",
-    "static/media/clients-bg.jpg": "/test-react-single-page/static/media/clients-bg.b1ee1bd5e3e97d3b99ba.jpg",
-    "static/media/devices-bg.jpg": "/test-react-single-page/static/media/devices-bg.82c4471bbb2ad4031f7d.jpg",
-    "static/media/atom.png": "/test-react-single-page/static/media/atom.dd983731730dbe412fbf.png",
-    "static/media/Loading.mp3": "/test-react-single-page/static/media/Loading.6b73abc403f291659927.mp3",
-    "static/media/New1.webp": "/test-react-single-page/static/media/New1.a75c253e2f9823db5ddb.webp",
-    "static/media/New3.webp": "/test-react-single-page/static/media/New3.2c612c7457713f787469.webp",
-    "static/media/Anfisa.mp3": "/test-react-single-page/static/media/Anfisa.80f0aefa838d3386d440.mp3",
-    "static/media/New2.webp": "/test-react-single-page/static/media/New2.0fc66828738d1b7da535.webp",
-    "index.html": "/test-react-single-page/index.html",
-    "main.e7f55487.css.map": "/test-react-single-page/static/css/main.e7f55487.css.map",
-    "main.abbd5975.js.map": "/test-react-single-page/static/js/main.abbd5975.js.map"
+    "main.css": "/elcho-diploma/static/css/main.400b6105.css",
+    "main.js": "/elcho-diploma/static/js/main.71bdca7c.js",
+    "static/media/1.webp": "/elcho-diploma/static/media/1.f9dc7c1a2155af61c507.webp",
+    "static/media/3.webp": "/elcho-diploma/static/media/3.cbae074e7117d28c83f8.webp",
+    "static/media/4.webp": "/elcho-diploma/static/media/4.31253d4a48e8f6d64bef.webp",
+    "static/media/5.webp": "/elcho-diploma/static/media/5.f24b4ebb44138b633eee.webp",
+    "static/media/2.webp": "/elcho-diploma/static/media/2.d388b43b6d4a800a6edd.webp",
+    "static/media/footer.webp": "/elcho-diploma/static/media/footer.fe0727987d02c927e690.webp",
+    "static/media/welcome.wav": "/elcho-diploma/static/media/welcome.3d1b74217c797f666099.wav",
+    "static/media/clients-bg.jpg": "/elcho-diploma/static/media/clients-bg.b1ee1bd5e3e97d3b99ba.jpg",
+    "static/media/devices-bg.jpg": "/elcho-diploma/static/media/devices-bg.82c4471bbb2ad4031f7d.jpg",
+    "static/media/atom.png": "/elcho-diploma/static/media/atom.dd983731730dbe412fbf.png",
+    "static/media/Loading.mp3": "/elcho-diploma/static/media/Loading.6b73abc403f291659927.mp3",
+    "static/media/New1.webp": "/elcho-diploma/static/media/New1.a75c253e2f9823db5ddb.webp",
+    "static/media/New3.webp": "/elcho-diploma/static/media/New3.2c612c7457713f787469.webp",
+    "static/media/Anfisa.mp3": "/elcho-diploma/static/media/Anfisa.80f0aefa838d3386d440.mp3",
+    "static/media/New2.webp": "/elcho-diploma/static/media/New2.0fc66828738d1b7da535.webp",
+    "index.html": "/elcho-diploma/index.html",
+    "main.400b6105.css.map": "/elcho-diploma/static/css/main.400b6105.css.map",
+    "main.71bdca7c.js.map": "/elcho-diploma/static/js/main.71bdca7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f55487.css",
-    "static/js/main.abbd5975.js"
+    "static/css/main.400b6105.css",
+    "static/js/main.71bdca7c.js"
   ]
 }
