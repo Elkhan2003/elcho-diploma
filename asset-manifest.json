@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test-react-single-page/static/css/main.49a345ec.css",
-    "main.js": "/test-react-single-page/static/js/main.51e641ec.js",
+    "main.css": "/test-react-single-page/static/css/main.e7f55487.css",
+    "main.js": "/test-react-single-page/static/js/main.8c95968e.js",
     "static/media/1.webp": "/test-react-single-page/static/media/1.f9dc7c1a2155af61c507.webp",
     "static/media/3.webp": "/test-react-single-page/static/media/3.cbae074e7117d28c83f8.webp",
     "static/media/4.webp": "/test-react-single-page/static/media/4.31253d4a48e8f6d64bef.webp",
@@ -18,11 +18,11 @@
     "static/media/Anfisa.mp3": "/test-react-single-page/static/media/Anfisa.80f0aefa838d3386d440.mp3",
     "static/media/New2.webp": "/test-react-single-page/static/media/New2.0fc66828738d1b7da535.webp",
     "index.html": "/test-react-single-page/index.html",
-    "main.49a345ec.css.map": "/test-react-single-page/static/css/main.49a345ec.css.map",
-    "main.51e641ec.js.map": "/test-react-single-page/static/js/main.51e641ec.js.map"
+    "main.e7f55487.css.map": "/test-react-single-page/static/css/main.e7f55487.css.map",
+    "main.8c95968e.js.map": "/test-react-single-page/static/js/main.8c95968e.js.map"
   },
   "entrypoints": [
-    "static/css/main.49a345ec.css",
-    "static/js/main.51e641ec.js"
+    "static/css/main.e7f55487.css",
+    "static/js/main.8c95968e.js"
   ]
 }
